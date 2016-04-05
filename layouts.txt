@@ -9,8 +9,8 @@ colemak			`1234567890-=qwfpgjluy;[]arstdhneio'\ºzxcvbkm,./~!@#$%^&*()_+QWFPGJLU
 colemak-4		`1234567890-=qwfrkyuiop[]asdtghjel;'\ºzxcvbnm,./~!@#$%^&*()_+QWFRKYUIOP{}ASDTGHJEL:"|²ZXCVBNM<>?
 colemak-8		`1234567890-=qwfkgyuiop[]arstdhjel;'\ºzxcvbnm,./~!@#$%^&*()_+QWFKGYUIOP{}ARSTDHJEL:"|²ZXCVBNM<>?
 colemak-13		`1234567890-=qwfkgylu;p[]arstdhjeio'\ºzxcvbnm,./~!@#$%^&*()_+QWFKGYLU:P{}ARSTDHJEIO"|²ZXCVBNM<>?
-DreymaR-angle-mod	`1234567890-=qwfpgjluy;[]arstdhneio'\zxcvbºkm,./~!@#$%^&*()_+QWFPGJLUY:{}ARSTDHNEIO"|ZXCVB²KM<>?
-DreymaR-DbgHk-angle-mod	`1234567890-=qwfpbjluy;[]arstgkneio'\zxcvdºhm,./~!@#$%^&*()_+QWFPGJLUY:{}ARSTDKNEIO"|ZXCVB²HM<>?
+colemak-(DreymaR's)-angle-mod	`1234567890-=qwfpgjluy;[]arstdhneio'\zxcvbºkm,./~!@#$%^&*()_+QWFPGJLUY:{}ARSTDHNEIO"|ZXCVB²KM<>?
+colemak-(DreymaR's)-CurlAngle-mod	`1234567890-=qwfpbjluy;[]arstgkneio'\zxcvdºhm,./~!@#$%^&*()_+QWFPGJLUY:{}ARSTDKNEIO"|ZXCVB²HM<>?
 dvorak			`1234567890[]',.pyfgcrl/=aoeuidhtns-\º;qjkxbmwvz~!@#$%^&*(){}"<>PYFGCRL?+AOEUIDHTNS_|²:QJKXBMWVZ
 home_top_swap	`1234567890-=qwdfgyjkl;[]aserthuiop'\ºzxcvbnm,./~!@#$%^&*()_+QWDFGYJKL:{}ASERTHUIOP"|²ZXCVBNM<>?
 klausler		`1234567890[]k,uypwlmfc[]oaeidrnths'\ºq.';zxvgbj~!@#$%^&*(){}K<UYPWLMFC{}OAEIDRNTHS"|²Q>":ZXVGBJ
