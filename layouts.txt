@@ -4,7 +4,7 @@ asset			`1234567890-=qwjfgypul;[]asetdhnior'\ºzxcvbkm,./~!@#$%^&*()_+QWJFGYPUL:
 bépo			$"«»()@+-/*=%bépoè^vdljzwauie,ctsrnmçêàyx.k'qghf#1234567890°`BÉPOÈ!VDLJZWAUIE;CTSRNMÇÊÀYX:K?QGHF				
 capewell-dvorak	`1234567890[]',.pyqfgrk/=oaeuidhtns-\ºzxcvjlmwb;~!@#$%^&*(){}"<>PYQFGRK?+OAEUIDHTNS_|²ZXCVJLMWB;
 capewell		`1234567890[].ymdfjpluq/=aersgbtnio-\ºxzcv;kwh,'~!@#$%^&*(){}>YMDFJPLUQ/=AERSGBTNIO-|²XZCV:KWH<"
-colemak_DH		`1234567890-=qwfpbjluy;[]arstgmneio'#zxcdv\kh,./~!@#$%^&*()_+QWFPBJLUY:{}ARSTGMNEIO"~ZXCDV|KM<>?
+colemak-mod-DH		`1234567890-=qwfpbjluy;[]arstgmneio'#zxcdv\kh,./~!@#$%^&*()_+QWFPBJLUY:{}ARSTGMNEIO"~ZXCDV|KM<>?
 colemak			`1234567890-=qwfpgjluy;[]arstdhneio'\ºzxcvbkm,./~!@#$%^&*()_+QWFPGJLUY:{}ARSTDHNEIO"|²ZXCVBKM<>?
 colemak-4		`1234567890-=qwfrkyuiop[]asdtghjel;'\ºzxcvbnm,./~!@#$%^&*()_+QWFRKYUIOP{}ASDTGHJEL:"|²ZXCVBNM<>?
 colemak-8		`1234567890-=qwfkgyuiop[]arstdhjel;'\ºzxcvbnm,./~!@#$%^&*()_+QWFKGYUIOP{}ARSTDHJEL:"|²ZXCVBNM<>?
