@@ -1,28 +1,26 @@
 adnw			^1234567890-`kuü.ävgcljf´hieaodtrnsßªºxyö,qbpwmzˇ°§ℓ»«$€„“”—¸KUÜ•ÄVGCLJF~HIEAODTRNSẞ³²XYÖ–QBPWMZ
-arensito		`1234567890[]ql,p';fudk[]arenbgsito'\ºzw.hjvcymx~!@#$%^&*(){}QL<P":FUDK{}ARENBGSITO"|²ZW>HJVCYMX
 asset			`1234567890-=qwjfgypul;[]asetdhnior'\ºzxcvbkm,./~!@#$%^&*()_+QWJFGYPUL:{}ASETDHNIOR"|²ZXCVBKM<>?
-bépo			$"«»()@+-/*=%bépoè^vdljzwauie,ctsrnmçêàyx.k'qghf#1234567890°`BÉPOÈ!VDLJZWAUIE;CTSRNMÇÊÀYX:K?QGHF				
-capewell-dvorak	`1234567890[]',.pyqfgrk/=oaeuidhtns-\ºzxcvjlmwb;~!@#$%^&*(){}"<>PYQFGRK?+OAEUIDHTNS_|²ZXCVJLMWB;
-capewell		`1234567890[].ymdfjpluq/=aersgbtnio-\ºxzcv;kwh,'~!@#$%^&*(){}>YMDFJPLUQ/=AERSGBTNIO-|²XZCV:KWH<"
-colemak-mod-DH		`1234567890-=qwfpbjluy;[]arstgmneio'#zxcdv\kh,./~!@#$%^&*()_+QWFPBJLUY:{}ARSTGMNEIO"~ZXCDV|KM<>?
+bépo			$"«»()@+-/*=%bépoè^vdljzwauie,ctsrnmçêàyx.k'qghf#1234567890°`BÉPOÈ!VDLJZWAUIE;CTSRNMÇÊÀYX:K?QGHF			
+capewell-dvorak	`1234567890[]',.pyqfgrk/=oaeiudhtns-\ºzxcvjlmwb;~!@#$%^&*(){}"<>PYQFGRK?+OAEIUDHTNS_|²ZXCVJLMWB;
+capewell		`1234567890[].ymdfjpluq/=aersgbtnio-\ºxzcv;kwh,'~!@#$%^&*(){}>YMDFJPLUQ?+AERSGBTNIO_|²XZCV:KWH<"
+colemak-mod-DH		`1234567890-=qwfpbjluy;[]arstgmneio'#zxcdv\kh,./~!@#$%^&*()_+QWFPBJLUY:{}ARSTGMNEIO"~ZXCDV|KH<>?
+colemak-mod-DH-wide `1234567890-=qwfpb[jluy;#arstg]mneio'zxcdv\/kh,.~!@#$%^&*()_+QWFPB{JLUY:~ARSTG}MNEIO"ZXCDV|?KH<>
 colemak			`1234567890-=qwfpgjluy;[]arstdhneio'\ºzxcvbkm,./~!@#$%^&*()_+QWFPGJLUY:{}ARSTDHNEIO"|²ZXCVBKM<>?
 colemak-4		`1234567890-=qwfrkyuiop[]asdtghjel;'\ºzxcvbnm,./~!@#$%^&*()_+QWFRKYUIOP{}ASDTGHJEL:"|²ZXCVBNM<>?
 colemak-8		`1234567890-=qwfkgyuiop[]arstdhjel;'\ºzxcvbnm,./~!@#$%^&*()_+QWFKGYUIOP{}ARSTDHJEL:"|²ZXCVBNM<>?
 colemak-13		`1234567890-=qwfkgylu;p[]arstdhjeio'\ºzxcvbnm,./~!@#$%^&*()_+QWFKGYLU:P{}ARSTDHJEIO"|²ZXCVBNM<>?
-colemak-angle-mod	`1234567890-=qwfpgjluy;[]arstdhneio'\zxcvbºkm,./~!@#$%^&*()_+QWFPGJLUY:{}ARSTDHNEIO"|ZXCVB²KM<>?
-colemak-(DreymaR's)-CurlAngle-mod	`1234567890-=qwfpbjluy;[]arstgkneio'\zxcvdºhm,./~!@#$%^&*()_+QWFPGJLUY:{}ARSTDKNEIO"|ZXCVB²HM<>?
 dvorak			`1234567890[]',.pyfgcrl/=aoeuidhtns-\º;qjkxbmwvz~!@#$%^&*(){}"<>PYFGCRL?+AOEUIDHTNS_|²:QJKXBMWVZ
-home_top_swap	`1234567890-=qwdfgyjkl;[]aserthuiop'\ºzxcvbnm,./~!@#$%^&*()_+QWDFGYJKL:{}ASERTHUIOP"|²ZXCVBNM<>?
-klausler		`1234567890[]k,uypwlmfc[]oaeidrnths'\ºq.';zxvgbj~!@#$%^&*(){}K<UYPWLMFC{}OAEIDRNTHS"|²Q>":ZXVGBJ
+home_top_swap	`1234567890-=qwdfgyjkl;[]aserthuiop'\ºzxcvbnm,./~!@#$%^&*()_+QWDFGYJKL:{}ASERTHUIOP"|²ZXCVBNM<>?			
+klausler		`1234567890[]k,uypwlmfc/=oaeidrnths-\ºq.';zxvgbj~!@#$%^&*<>{}K(UYPWLMFC?+OAEIDRNTHS_|²Q)":ZXVGBJ
 minimak4		`1234567890-=qwdrkyuiop[]astfghjel;'\ºzxcvbnm,./~!@#$%^&*()_+QWDRKYUIOP{}ASTFGHJEL:"|²ZXCVBNM<>?
 minimak8		`1234567890-=qwdrkyuilp[]astfghneo;'\ºzxcvbjm,./~!@#$%^&*()_+QWDRKYUILP{}ASTFGHNEO:"|²ZXCVBJM<>?
-minimak16		`1234567890-=qwdfkyuil;[]astrghneop'\ºzxcvbjm,./~!@#$%^&*()_+QWDFKYUIL:{}ASTRGHNEOP"|²ZXCVBJM<>?
+minimak12		`1234567890-=qwdfkyuil;[]astrghneop'\ºzxcvbjm,./~!@#$%^&*()_+QWDFKYUIL:{}ASTRGHNEOP"|²ZXCVBJM<>?
 neo				^1234567890-`xvlcwkhgfqß´uiaeosnrtdyªºüöäpzbm,.jˇ°§ℓ»«$€„“”—¸XVLCWKHGFQß~UIAEOSNRTDY³²ÜÖÄPZBM–•J
 norman			`1234567890-=qwdfkjurl;[]asetgynioh'\ºzxcvbpm,./~!@#$%^&*()_+QWDFKJURL;{}ASETGYNIOH"|²ZXCVBPM<>?
 carpalx qfmlwy	`1234567890-=qfmlwyuobj[]dstnriaeh;'\ºzvgcxpk,./~!@#$%^&*()_+QFMLWYUOBJ{}DSTNRIAEH:"|²ZVGCXPK<>?
 carpalx qgmlwb	`1234567890-=qgmlwbyuv;[]dstnriaeoh'\ºzxcfjkp,./~!@#$%^&*()_+QGMLWBYUV:{}DSTNRIAEOH"|²ZXCFJKP<>?
 carpalx qgmlwy	`1234567890-=qgmlwyfub;[]dstnriaeoh'\ºzxcvjkp,./~!@#$%^&*()_+QGMLWYFUB:{}DSTNRIAEOH"|²ZXCVJKP<>?
-qwerf			`1234567890-=qwerfjylk;[]asdtghuoip'\ºzxcvbnm,./~!@#$%^&*()_+QWERFJYLK;{}ASDTGHUOIP'|²ZXCVBNM,./
+qwerf-2007		`1234567890-=qwerfjylk;[]asdtghuoip'\ºzxcvbnm,./~!@#$%^&*()_+QWERFJYLK;{}ASDTGHUOIP"|²ZXCVBNM,./
 qwerty			`1234567890-=qwertyuiop[]asdfghjkl;'\ºzxcvbnm,./~!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|²ZXCVBNM<>?
 qwpr			`1234567890-=qwprfyukl;[]asdtghnioe'\ºzxcvbjm,./~!@#$%^&*()_+QWPRFYUKL:{}ASDTGHNIOE"|²ZXCVBJM<>?
 tarmak1			`1234567890-=qwjrtyuiop[]asdfghnel;'\ºzxcvbkm,./~!@#$%^&*()_+QWJRTYUIOP{}ASDFGHNEL:"|²ZXCVBKM<>?

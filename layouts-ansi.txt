@@ -1,0 +1,26 @@
+asset			`1234567890-=qwjfgypul;[]\asetdhnior'zxcvbkm,./~!@#$%^&*()_+QWJFGYPUL:{}|ASETDHNIOR"ZXCVBKM<>?
+capewell-dvorak	`1234567890[]',.pyqfgrk/=\oaeiudhtns-zxcvjlmwb;~!@#$%^&*(){}"<>PYQFGRK?+|OAEIUDHTNS_ZXCVJLMWB;
+capewell		`1234567890[].ymdfjpluq/=\aersgbtnio-xzcv;kwh,'~!@#$%^&*(){}>YMDFJPLUQ/=\AERSGBTNIO-XZCV:KWH<"
+colemak-mod-DH	`1234567890-=qwfpbjluy;[]\arstgmneio'xcdvzkh,./~!@#$%^&*()_+QWFPBJLUY:{}|ARSTGMNEIO"XCDVZKH<>?
+colemak			`1234567890-=qwfpgjluy;[]\arstdhneio'zxcvbkm,./~!@#$%^&*()_+QWFPGJLUY:{}|ARSTDHNEIO"ZXCVBKM<>?
+colemak-4		`1234567890-=qwfrkyuiop[]\asdtghjel;'zxcvbnm,./~!@#$%^&*()_+QWFRKYUIOP{}|ASDTGHJEL:"ZXCVBNM<>?
+colemak-8		`1234567890-=qwfkgyuiop[]\arstdhjel;'zxcvbnm,./~!@#$%^&*()_+QWFKGYUIOP{}|ARSTDHJEL:"ZXCVBNM<>?
+colemak-13		`1234567890-=qwfkgylu;p[]\arstdhjeio'zxcvbnm,./~!@#$%^&*()_+QWFKGYLU:P{}|ARSTDHJEIO"ZXCVBNM<>?
+dvorak			`1234567890[]',.pyfgcrl/=\aoeuidhtns-;qjkxbmwvz~!@#$%^&*(){}"<>PYFGCRL?+|AOEUIDHTNS_:QJKXBMWVZ
+home_top_swap	`1234567890-=qwdfgyjkl;[]\aserthuiop'zxcvbnm,./~!@#$%^&*()_+QWDFGYJKL:{}|ASERTHUIOP"ZXCVBNM<>?			
+klausler		`1234567890[]k,uypwlmfc/=\oaeidrnths-q.';zxvgbj~!@#$%^&*<>{}K(UYPWLMFC?+|OAEIDRNTHS_Q)":ZXVGBJ
+minimak4		`1234567890-=qwdrkyuiop[]\astfghjel;'zxcvbnm,./~!@#$%^&*()_+QWDRKYUIOP{}|ASTFGHJEL:"ZXCVBNM<>?
+minimak8		`1234567890-=qwdrkyuilp[]\astfghneo;'zxcvbjm,./~!@#$%^&*()_+QWDRKYUILP{}|ASTFGHNEO:"ZXCVBJM<>?
+minimak12		`1234567890-=qwdfkyuil;[]\astrghneop'zxcvbjm,./~!@#$%^&*()_+QWDFKYUIL:{}|ASTRGHNEOP"ZXCVBJM<>?
+norman			`1234567890-=qwdfkjurl;[]\asetgynioh'zxcvbpm,./~!@#$%^&*()_+QWDFKJURL;{}|ASETGYNIOH"ZXCVBPM<>?
+carpalx qfmlwy	`1234567890-=qfmlwyuobj[]\dstnriaeh;'zvgcxpk,./~!@#$%^&*()_+QFMLWYUOBJ{}|DSTNRIAEH:"ZVGCXPK<>?
+carpalx qgmlwb	`1234567890-=qgmlwbyuv;[]\dstnriaeoh'zxcfjkp,./~!@#$%^&*()_+QGMLWBYUV:{}|DSTNRIAEOH"ZXCFJKP<>?
+carpalx qgmlwy	`1234567890-=qgmlwyfub;[]\dstnriaeoh'zxcvjkp,./~!@#$%^&*()_+QGMLWYFUB:{}|DSTNRIAEOH"ZXCVJKP<>?
+qwerf-2007		`1234567890-=qwerfjylk;[]\asdtghuoip'zxcvbnm,./~!@#$%^&*()_+QWERFJYLK;{}|ASDTGHUOIP"ZXCVBNM,./
+qwerty			`1234567890-=qwertyuiop[]\asdfghjkl;'zxcvbnm,./~!@#$%^&*()_+QWERTYUIOP{}|ASDFGHJKL:"ZXCVBNM<>?
+qwpr			`1234567890-=qwprfyukl;[]\asdtghnioe'zxcvbjm,./~!@#$%^&*()_+QWPRFYUKL:{}|ASDTGHNIOE"ZXCVBJM<>?
+tarmak1			`1234567890-=qwjrtyuiop[]\asdfghnel;'zxcvbkm,./~!@#$%^&*()_+QWJRTYUIOP{}|ASDFGHNEL:"ZXCVBKM<>?
+tarmak2			`1234567890-=qwfrgyuiop[]\asdtjhnel;'zxcvbkm,./~!@#$%^&*()_+QWFRGYUIOP{}|ASDTJHNEL:"ZXCVBKM<>?
+tarmak3			`1234567890-=qwfjgyuiop[]\arstdhnel;'zxcvbkm,./~!@#$%^&*()_+QWFJGYUIOP{}|ARSTDHNEL:"ZXCVBKM<>?
+tarmak4			`1234567890-=qwfpgjuiy;[]\arstdhnelo'zxcvbkm,./~!@#$%^&*()_+QWFPGJUIY:{}|ARSTDHNELO"ZXCVBKM<>?
+workman			`1234567890-=qdrwbjfup;[]\ashtgyneoi'zxmcvkl,./~!@#$%^&*()_+QDRWBJFUP:{}|ASHTGYNEOI"ZXMCVKL<>?
